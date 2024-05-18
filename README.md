@@ -4,10 +4,10 @@
 Welcome to the Forex Trading System backend project. This project is built using Nest.js, a powerful framework for building efficient and scalable server-side applications with Node.js.
 
 ## Features
-- FX Rate Syncing**: The system fetches live FX conversion rates from AlphaVantage API and stores them in memory.
-- Account Management**: Users can top up their account with a specified amount in a given currency and check their account balances.
-- FX Conversion**: Users can perform FX conversions using the fetched rates.
-- Swagger Documentation**: API endpoints are documented using Swagger for easy reference.
+- FX Rate Syncing : The system fetches live FX conversion rates from AlphaVantage API and stores them in memory.
+- Account Management : Users can top up their account with a specified amount in a given currency and check their account balances.
+- FX Conversion : Users can perform FX conversions using the fetched rates.
+- Swagger Documentation : API endpoints are documented using Swagger for easy reference.
 
 ## Installation
 1. Clone this repository to your local machine.
