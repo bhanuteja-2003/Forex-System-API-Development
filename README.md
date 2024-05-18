@@ -1,5 +1,3 @@
-Sure, here's a basic template for your README file:
-
 ---
 
 # Forex Trading System
@@ -39,10 +37,3 @@ Welcome to the Forex Trading System backend project. This project is built using
 - Nest.js: A progressive Node.js framework for building efficient and scalable server-side applications.
 - Axios: A promise-based HTTP client for making HTTP requests.
 - Swagger: A tool for documenting and testing RESTful APIs.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template to fit your specific project requirements and add any additional information as needed.
